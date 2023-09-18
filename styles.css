@@ -52,8 +52,9 @@ table,
 .frame {
   border: 3px solid black;
   background-color: gainsboro;
-  text-align: center
-  ;
+  text-align: center;
+  border-collapse: collapse;
+  
 }
 
 
